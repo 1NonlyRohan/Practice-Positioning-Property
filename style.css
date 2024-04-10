@@ -21,3 +21,21 @@
     top: 100px;
     left: 40px;
 }
+
+.img-2 img {
+    position: absolute;
+    top: 600px;
+    left: 40px;
+}
+
+.img-3 img {
+    position: absolute;
+    top: 600px;
+    left: 480px;
+}
+
+.img-4 img {
+    position: absolute;
+    top: 595px;
+    left: 900px;
+}
